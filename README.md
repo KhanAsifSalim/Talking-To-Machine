@@ -1,0 +1,33 @@
+# Talking-To-Machine
+-  FLOW OF PROGRAM:-
+-  Welcome,Welcome,Welcome.
+-  Welcome To Talking Machine.
+-  Please Rate Us In Stars.
+-  Type1 : To Create An Account.
+-  Type2 : Login.
+-  Choose An Option :1
+-  To Create An account Type Your
+-  Name:
+-  Password:
+-  Hello Name
+-  Nice To Meet You
+-  Choose An Option :2
+-  To Login
+-  Type Your
+-  Username:
+-  Password:
+-  Hey Username
+-  Welcome Back
+-  Type 1 :Random Talks.
+-  Type 2 :Talk About Favourites.
+-  Type 3 :Calculator.
+-  Type 4 :Logout.
+-  Choose An Option:1
+-  I Need Your Advice
+-  Choose An Option :2
+-  Whats Your Favourites Color?
+-  Choose An Option :3
+-  Type 1 Add
+-  Type 2 Substract
+-  Type 3 Multiply
+-  Type 4 Divide
